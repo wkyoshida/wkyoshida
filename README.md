@@ -4,9 +4,19 @@
   </h1>
 
   <p>
-    <img src="./assets/hi.gif" width="20"/>
+    <img src="assets/hi.gif" width="20"/>
     Hi, I’m @wkyoshida!
   </p>
+</div>
+
+<div align="center">
+  <a target="_blank" href="mailto:wkyoshida.dev@gmail.com" title="Email">
+    <img width="22" src="assets/email-send.svg">
+  </a>
+
+  <a target="_blank" href="https://www.linkedin.com/in/wkyoshida" title="LinkedIn">
+    <img width="22" src="assets/linkedin.svg">
+  </a>
 </div>
 
 <h4 align="center">
