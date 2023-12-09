@@ -20,7 +20,7 @@
 </div>
 
 <h4 align="center">
-  :computer: Technology and Social Good :balance_scale:
+  💻 Technology and Social Good ⚖️
 </h4>
 
 <p align="center">
